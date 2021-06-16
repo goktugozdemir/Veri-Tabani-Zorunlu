@@ -1,0 +1,111 @@
+body,h1 {font-family: Arial, sans-serif}
+
+body {
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url('');
+}
+
+button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+
+.wrapper
+{
+  height:  700px;
+  width:  1500px;
+  background-image: url(resim.jpg);
+}
+
+header
+{
+  height: 100px;
+  width: 1500px;
+  background-color: 072AC8;
+}
+
+section
+{
+  height: 500px;
+  width: 1500px;
+}
+
+footer
+{
+  height: 100px;
+  width: 1500px;
+  background-color: 072AC8;
+}
+
+li a
+{
+  color:  FFC600;
+  text-decoration: none;
+}
+
+nav
+{
+  float: right;
+  word-spacing: 30px;
+  padding: 20px;
+}
+
+nav li
+{
+  display: inline-block;
+}
+
+.logo
+{
+  float: left;
+  padding-left: 50px;
+}
+
+.box
+{
+  height: 300px;
+  width: 500px;
+  background-color: A2D6F9;
+  margin: 70px auto;
+  padding: 20px;
+  opacity:  .6;
+}
+
+form .giriş
+{
+  margin: auto 40px;
+}
+
+input
+{
+  height: 25 px;
+  width: 300px;
+}
+
+.arama
+{
+  height: 300px;
+  width: 500px;
+  background-color: A2D6F9;
+  margin: 70px auto;
+  padding: 30px;
+  opacity:  .6;
+}
+
+.boxKayit
+{
+  height: 450px;
+  width: 500px;
+  background-color: A2D6F9;
+  margin: 0px auto;
+  padding: 20px;
+  opacity:  .6;
+}
